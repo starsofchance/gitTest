@@ -1,1 +1,5 @@
+this was wtritten in the new brach
+will it be shown in the original 2? the answer is now. not only the changes, 
+but even the file created on a side brancj will not be shown while on master branch.
+at least not befor merging the branches  
 completed chapter 3
